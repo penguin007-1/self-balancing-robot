@@ -5,6 +5,7 @@ This is the first version of my self balancing robot.
 Hardware Setup:
 
 Remote Controller Part:
+
 1.One Arduino nano microcontroller. 
 2.One nRF24L01+ low power version module.
 3.One LCD screen.
@@ -15,6 +16,7 @@ Remote Controller Part:
 8.One breadboard and some jumper wires.
 
 Robot Part:
+
 One Arduino nano microcontroller. 
 One nRF24L01+ low power version module.
 One MPU6050 module, which has an accelerometer and a gyroscope.
