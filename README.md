@@ -1,6 +1,14 @@
 # Self-balancing-robot
 
-This is the first version of my self balancing robot. 
+This is the first version of my two wheel self balancing robot. This is my first time to create a repository in GitHub. Any suggestions are welcome. 
+
+The robot is controlled by a PID controller. MPU6050 module is a combination of accelerometer and gyroscope sensors. A complementary filter uses the information from the sensors to calculate current angle. The difference between the current angle and the desired angle serves as input for the PID controller. The output of the controller serves as input for the DC motors, which is a PWM signal.
+
+The most important part is PID tuning. It requires some time to get a good result, i.e. the robot has relatively robust stability and small overshoot. Very large integral parameter causes instability and large overshoot; Very large derivative parameter causes very high frequency jitter.
+
+In order to have a better control of the system, mass center should be as high as possible, and in the middle. Battery pack is normally the heaviest part, so it should be placed on the top of the robot.
+
+
 
 Hardware Setup:
 
