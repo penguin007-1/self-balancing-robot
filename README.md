@@ -1,4 +1,7 @@
 # Self-balancing-robot
-Two wheel self-balancing robot.
 
-This is a test. First time to GitHub.
+This is the first version of my self balancing robot. 
+
+Hardware Setup:
+Arduino nano microcontroller * 2.
+
