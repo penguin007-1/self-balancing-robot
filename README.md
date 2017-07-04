@@ -7,9 +7,7 @@ Hardware Setup:
 Remote Controller Part:
 
 1. One Arduino nano microcontroller. 
-
 2. One LCD screen.
-
 3. One joystick.
 
 4. Four push buttons.
