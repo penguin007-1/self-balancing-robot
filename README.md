@@ -5,15 +5,14 @@ This is the first version of my self balancing robot.
 Hardware Setup:
 
 Remote Controller Part:
-
 1.One Arduino nano microcontroller. 
-2.One nRF24L01+ low power version module.
-3.One LCD screen.
-4.One joystick.
-5.Four push buttons.
-6.Five 220 ohm resistors.
-7.One potentiometer. This is used for adjusting contrast of the LCD.
-8.One breadboard and some jumper wires.
+2.One nRF24L01+ low power version module. 
+3.One LCD screen. 
+4.One joystick. 
+5.Four push buttons.  
+6.Five 220 ohm resistors. 
+7.One potentiometer. This is used for adjusting contrast of the LCD.  
+8.One breadboard and some jumper wires. 
 
 Robot Part:
 
