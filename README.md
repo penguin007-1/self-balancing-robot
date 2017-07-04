@@ -8,7 +8,9 @@ The most important part is PID tuning. It requires some time to get a good resul
 
 In order to have a better control of the system, mass center should be as high as possible, and in the middle. Battery pack is normally the heaviest part, so it should be placed on the top of the robot.
 
+In order to drive the robot, motors should have enough torque. I used the low speed, high torque dc gear motors, which has  a speed of only 200 rpm (without load) and average torque of 2kg/cm. Low speed can be compensated by large wheels.
 
+The frame of the robot is 3mm HDF, which is cutted by a lasercutter. Two adapter parts for motors are produced by a 3D printer. M3 bolts and nuts are used to join all pieces together.
 
 Hardware Setup:
 
@@ -31,7 +33,7 @@ One L293D motor driver IC.
 Two gear motors.   
 One 12V AAA battery pack.  
 One power bank.  
-Some M3 M4 bots and nuts.  
+Some M3 bots and nuts.  
 Three small breadboards.  
 Some jumper wires.  
 
